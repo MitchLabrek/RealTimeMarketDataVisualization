@@ -12,7 +12,7 @@ The ethbusd_trade_data.py script creates a real-time visualization of the ETHBUS
 
 # Installation
 Clone the repository to your local machine.
-Install the required libraries: `requests`, `json`, `numpy`, 'matplotlib', 'collections', 'dash', 'dash_core_components', 'dash_html_components', and 'plotly'.
+Install the required libraries: `requests`, `json`, `numpy`, `matplotlib`, `collections`, `dash`, `dash_core_components`, `dash_html_components`, and `plotly`.
 Run either of the scripts using a Python interpreter.
 Usage
 To use the ethbusd_order_book.py script, simply run it using a Python interpreter. The script will continuously update and display the order book for the ETHBUSD trading pair on Binance using a matplotlib area chart.
@@ -21,5 +21,6 @@ To use the ethbusd_trade_data.py script, run it using a Python interpreter and o
 # Customization
 The scripts can be easily customized for other trading pairs or exchanges by changing the API endpoints and symbols as needed.
 The appearance and behavior of the visualizations can be customized using the libraries' various options and parameters.
-Disclaimer
+
+# Disclaimer
 The scripts are provided as-is and are not intended for use in actual trading. The scripts are meant for educational and exploratory purposes only, and the accuracy and completeness of the data cannot be guaranteed. The scripts should be used at your own risk.
