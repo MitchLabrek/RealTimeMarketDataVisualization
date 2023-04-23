@@ -1,5 +1,3 @@
-# RealTimeMarketDataVisualization
-
 # Real-time Visualization of ETHBUSD Order Book and Trade Data on Binance Using Python
 
 This repository contains two Python scripts that use the Binance API to create real-time visualizations of the ETHBUSD order book and trade data on the Binance exchange.
